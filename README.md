@@ -1,5 +1,9 @@
 # PSP RSS Feed Creator
 
+<p align="center">
+  <img src="assets/psp-rss-feed-creator.png" alt="PSP RSS Feed Creator logo" width="520">
+</p>
+
 PSP RSS Feed Creator is a Windows desktop app for building Sony PSP RSS Channel feeds.
 
 The Windows installer is standalone. End users do not need to install Python or run command-line scripts.
@@ -35,9 +39,9 @@ Run `PSPRSSFeedCreatorSetup.exe`, then open **PSP RSS Feed Creator** from the St
 5. Export `feed.xml`.
 6. Upload `feed.xml` somewhere your PSP can reach.
 
-## Support
+## Project Updates And Support
 
-- Follow the creator: [God1yNigga on Instagram](https://instagram.com/god1ynigga)
-- Support the project: [Venmo](https://venmo.com/godlynigga)
+- Follow the project creator on Instagram: [@God1yNigga](https://instagram.com/god1ynigga)
+- Support development through Venmo: [venmo.com/godlynigga](https://venmo.com/godlynigga)
 
 The source repository is private. This repository intentionally contains release information and installer downloads only.
