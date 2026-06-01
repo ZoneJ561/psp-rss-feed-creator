@@ -24,11 +24,12 @@ Run `PSPRSSFeedCreatorSetup.exe`, then open **PSP RSS Feed Creator** from the St
 - Saved editable feed projects.
 - RSS preview, copy, and XML export.
 - Light and dark themes.
-- MP3, AAC, MP4, JPEG, and PNG media items.
+- MP3, AAC, MP4, JPEG, PNG, and ISO download items.
 - `.THM` thumbnail sidecars for PSP video feeds.
 - Automatic remote media byte-size lookup.
 - Archive.org import with per-file PSP-compatible HTTP URL resolution.
 - Archive.org `.thm` and `.THM` matching.
+- Archive.org `.iso` import support.
 
 ## Basic Use
 
